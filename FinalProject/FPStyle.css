@@ -1,0 +1,27 @@
+﻿body {
+    background-color: #273746;
+}
+
+h1, h2, h3, h4, h5, h6, p, th, td, label, figcaption{
+    font-family: 'Arial';
+    color: #ffffff;
+}
+
+a {
+    color: #F1C40F;
+    text-decoration: underline;
+}
+
+p, a, th, td, label figcaption{
+    font-size: 18px;
+}
+
+table, th, td {
+    border: 2px solid #000000;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+div, iframe{
+    border: 0px;
+}

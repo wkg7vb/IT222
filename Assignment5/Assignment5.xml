@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link href="http://w.web.umkc.edu/wkg7vb/Assignment5/Assignment5.xml" rel="self" type="application/rss+xml" />
+		
+		<title>Walter Gilliam's IT222 Podcast</title>
+		<link>http://w.web.umkc.edu/wkg7vb/Assignment5.html</link>
+		<description>Podcast created for Assignmnet 5</description>
+		
+		<item>
+			<title>Just Stating Facts</title>
+			<link>http://w.web.umkc.edu/wkg7vb/Assignment5/Assignment%205.mp3</link>
+			<description>Original Music by DanoSongs, Mixed by Walter Gilliam</description>
+			<enclosure url="http://w.web.umkc.edu/wkg7vb/Assignment5/Assignment%205.mp3" length="8474938" type="audio/mpeg" />
+			<guid isPermaLink="true">http://w.web.umkc.edu/wkg7vb/Assignment5/Assignment%205.mp3</guid>
+		</item>
+		
+		<item>
+			<title>Beautiful Messenger - Triple Mixed</title>
+			<link>http://w.web.umkc.edu/wkg7vb/Assignment5/Beautiful%20Messenger%20-%20Triple%20Mixed.mp3</link>
+			<description>Original Music by DanoSongs, Mixed by Walter Gilliam</description>
+			<enclosure url="http://w.web.umkc.edu/wkg7vb/Assignment5/Beautiful%20Messenger%20-%20Triple%20Mixed.mp3" length="2219139" type="audio/mpeg" />
+			<guid isPermaLink="true">http://w.web.umkc.edu/wkg7vb/Assignment5/Beautiful%20Messenger%20-%20Triple%20Mixed.mp3</guid>
+		</item>
+	
+		
+	</channel>
+</rss>
